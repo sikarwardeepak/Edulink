@@ -1,4 +1,4 @@
-package com.edustatus.edustatus.controller.config;
+package com.edulink.edulink.controller.config;
 
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;

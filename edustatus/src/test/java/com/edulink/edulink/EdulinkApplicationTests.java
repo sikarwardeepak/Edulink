@@ -1,10 +1,10 @@
-package com.edustatus.edustatus;
+package com.edulink.edulink;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EdustatusApplicationTests {
+class EdulinkApplicationTests {
 
 	@Test
 	void contextLoads() {

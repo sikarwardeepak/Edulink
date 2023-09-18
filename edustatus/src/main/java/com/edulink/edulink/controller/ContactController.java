@@ -1,13 +1,11 @@
-package com.edustatus.edustatus.controller;
+package com.edulink.edulink.controller;
 
+import com.edulink.edulink.Service.ContactService;
+import com.edulink.edulink.model.Contact;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
-
-import com.edustatus.edustatus.Service.ContactService;
-import com.edustatus.edustatus.model.Contact;
 
 import static org.springframework.web.bind.annotation.RequestMethod.POST;
 

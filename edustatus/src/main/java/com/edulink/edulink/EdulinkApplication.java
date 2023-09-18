@@ -1,13 +1,13 @@
-package com.edustatus.edustatus;
+package com.edulink.edulink;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EdustatusApplication {
+public class EdulinkApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EdustatusApplication.class, args);
+		SpringApplication.run(EdulinkApplication.class, args);
 	}
 
 }

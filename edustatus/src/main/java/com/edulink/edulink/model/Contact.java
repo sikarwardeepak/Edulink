@@ -1,4 +1,4 @@
-package com.edustatus.edustatus.model;
+package com.edulink.edulink.model;
 
 public class Contact {
     private String name;

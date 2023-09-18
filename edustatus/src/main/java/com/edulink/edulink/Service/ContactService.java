@@ -1,11 +1,11 @@
-package com.edustatus.edustatus.Service;
+package com.edulink.edulink.Service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
-import com.edustatus.edustatus.controller.ContactController;
-import com.edustatus.edustatus.model.Contact;
+import com.edulink.edulink.controller.ContactController;
+import com.edulink.edulink.model.Contact;
 
 @Service
 public class ContactService {
